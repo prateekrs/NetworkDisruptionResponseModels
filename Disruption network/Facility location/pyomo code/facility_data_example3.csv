@@ -1,0 +1,4 @@
+Facility,FacilityType,Capacity,UnitMovementCost
+0,Big,100,100
+1,Med,50,10
+2,Small,10,1
